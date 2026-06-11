@@ -1,2 +1,3 @@
-# club-empresas-cd-castellon
-Invitación Club de Empresas CD Castellón
+# Club de Empresas CD Castellón
+
+Invitación publicada en GitHub Pages para el encuentro del Club de Empresas.
